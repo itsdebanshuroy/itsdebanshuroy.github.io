@@ -17,3 +17,4 @@ theme:
         name: Switch to dark mode
 nav:
   - Home: index.md
+  - Something: something.md
